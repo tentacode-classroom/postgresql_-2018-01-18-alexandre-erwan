@@ -7,7 +7,7 @@ wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-
      sudo apt-get update
 
 
-sudo apt-get install postgresql-11
+sudo apt-get install postgresql-11 -y
 
 sudo service postgresql start
 
