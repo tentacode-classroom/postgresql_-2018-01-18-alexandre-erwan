@@ -2,7 +2,7 @@
 
 ## 1. Installation de PostgreSQL
 
-Lancer la commande '''./script/setup_postgres.sh'''
+Lancer la commande ```./script/setup_postgres.sh```
 
 ## 2. Récuperation du fichier json qui contient les events github :
 
